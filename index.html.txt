@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Re:Chord 公式サイト</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Re:Chord</h1>
+    <nav>
+      <a href="#top">TOP</a>
+      <a href="#profile">PROFILE</a>
+      <a href="#gallery">GALLERY</a>
+      <a href="#contact">CONTACT</a>
+      <a href="#links">LINKS</a>
+    </nav>
+  </header>
+
+  <section id="top">
+    <h2>Welcome to Re:Chord</h2>
+    <p>音楽と物語が交差する場所へようこそ。</p>
+  </section>
+
+  <section id="profile">
+    <h2>メンバー紹介</h2>
+    <p>奏音（リーダー）、ジン（副リーダー）、律、奏音の兄、妖怪的な彼...</p>
+  </section>
+
+  <section id="gallery">
+    <h2>おすすめ動画</h2>
+    <ul>
+      <li><a href="https://www.youtube.com/" target="_blank">【動画1】タイトル（例）</a></li>
+      <li><a href="https://www.youtube.com/" target="_blank">【動画2】タイトル（例）</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>お問い合わせ</h2>
+    <p>ご連絡は <a href="mailto:example@example.com">メール</a> または <a href="#">公式LINE</a> にて。</p>
+  </section>
+
+  <section id="links">
+    <h2>リンク集</h2>
+    <ul>
+      <li><a href="https://youtube.com/" target="_blank">YouTube チャンネル</a></li>
+      <li><a href="#">公式LINE</a></li>
+      <li><a href="#">X（旧Twitter）</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Re:Chord Official</p>
+  </footer>
+</body>
+</html>
